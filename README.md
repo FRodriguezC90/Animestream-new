@@ -1,2 +1,0 @@
-# Animestream
- Anime  streaming plataform
